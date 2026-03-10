@@ -41,5 +41,4 @@ def start_lyrics():
 
     print(f"{RESET}\n// Code by {BLUE}Micola Arighi {RESET}- Modified by {BLUE}XzeelArcadia{RESET}\n")
 
-# Jalankan fungsi
 start_lyrics()
